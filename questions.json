@@ -1,5 +1,5 @@
 {
-    "Quanto fa 2+2?": [
+    "How much is 2+2?": [
         {
             "answer": "3",
             "correct": false
@@ -17,7 +17,7 @@
             "correct": false
         }
     ],
-    "Numero di stdin?": [
+    "Which is the stdin number?": [
         {
             "answer": "0",
             "correct": true
@@ -35,21 +35,21 @@
             "correct": false
         }
     ],
-    "Cosa fa calloc?": [
+    "What does calloc do?": [
         {
-            "answer": "Alloca memoria",
+            "answer": "Allocates memory",
             "correct": true
         },
         {
-            "answer": "Alloca memoria e la inizializza a zero",
+            "answer": "Allocates and initializes memory",
             "correct": true
         },
         {
-            "answer": "Libera memoria",
+            "answer": "Frees memory",
             "correct": false
         },
         {
-            "answer": "Invoca il demonio",
+            "answer": "Inovkes the devil",
             "correct": false
         }
     ]
