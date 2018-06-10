@@ -1,0 +1,56 @@
+{
+    "Quanto fa 2+2?": [
+        {
+            "answer": "3",
+            "correct": false
+        },
+        {
+            "answer": "4",
+            "correct": true
+        },
+        {
+            "answer": "1",
+            "correct": false
+        },
+        {
+            "answer": "8",
+            "correct": false
+        }
+    ],
+    "Numero di stdin?": [
+        {
+            "answer": "0",
+            "correct": true
+        },
+        {
+            "answer": "1",
+            "correct": false
+        },
+        {
+            "answer": "2",
+            "correct": false
+        },
+        {
+            "answer": "3",
+            "correct": false
+        }
+    ],
+    "Cosa fa calloc?": [
+        {
+            "answer": "Alloca memoria",
+            "correct": true
+        },
+        {
+            "answer": "Alloca memoria e la inizializza a zero",
+            "correct": true
+        },
+        {
+            "answer": "Libera memoria",
+            "correct": false
+        },
+        {
+            "answer": "Invoca il demonio",
+            "correct": false
+        }
+    ]
+}
