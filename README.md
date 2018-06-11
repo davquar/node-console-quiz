@@ -10,7 +10,7 @@ Questions and answers are stored in `questions.json`.
 
 Its syntax is:
 
-```json
+```
 {
     "<question name>": [
         {
