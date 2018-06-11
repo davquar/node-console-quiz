@@ -4,7 +4,15 @@
   "description": "A simple NodeJS interactive console quiz app.",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fortym2/node-console-quiz"
+  },
+  "dependencies": {
+    "cli-interact": "^0.1.9"
   },
   "author": "@fortym2",
   "license": "ISC"
