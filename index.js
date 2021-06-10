@@ -40,6 +40,12 @@ function handleAnswer(question, answer, maxChoices) {
         console.log('    \x1b[32m%s\x1b[0m', 'CORRECT!');
         correctAnswers++;
     } else {
+         for (let i = 0; i < maxChoices; i++)
+        {
+            if (questions[question][i].correct) {
+                console.log("correct answer: ",questions[question][i].answer);
+            }
+        }
         console.log('    \x1b[31m%s\x1b[0m', 'WRONG!');
         wrongAnswers++;
     }
